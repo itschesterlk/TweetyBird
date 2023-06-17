@@ -7,9 +7,6 @@ Alot of features still need to me implemented before this can be reliably used i
 At this point there are prone to be extreemly dramatic changes so often check back on this GitHub
 repository for the lastest updates and features.
 
-Contributions of ANY KIND are EXTREEMLY WELCOME.
-If you prefer to contact me, send me an email at contact@chesterlk.com
-
 
 ## So what is this so called TweetyBird?
 TweetyBird is a set of java files for your FTC sdk that controls your meccanum drive train for you.
@@ -31,3 +28,17 @@ You might be thinking, "Well, if it does all of this, then surely configuring Tw
 This is something we took into consideration every part of development, all you need to do is run though our config file and
 change a couple measurements of your deadwheel encoders to reflect your bot. Optionally the config file also contains other
 parameters that affect how TweetyBird will reach its destination.
+
+## Keep tabs on development:
+For the Summer of 2023 TweetyBird is in active development on a separeate repository that is a fork of the FTC Robot Controller
+SDK, check it out <a href="https://github.com/itschesterlk/FtcRobotController">here!</a>
+
+To test GitHub's new project feature, a project on TweetyBird's development has also been created to follow along and see whats next for TweetyBird's
+development.
+
+You can view the project board <a href="https://github.com/users/itschesterlk/projects/2/views/1">here!</a>
+
+
+## Contributing
+Contributions of any kind are extreemly helpfull and welcome. Feel free to submit an issue for any ideas or bugs you may encounter, and if you're
+feeling up to it, maybe send us a commit of something you changed, improved, or fixed!
